@@ -1,0 +1,58 @@
+{
+    "40": {
+        "accuracy": 0.6562,
+        "precision": 0.5168,
+        "recall": 0.5264,
+        "f1_score": 0.5117,
+        "roc_auc": 0.9695,
+        "train_time_sec": 8.64
+    },
+    "50": {
+        "accuracy": 0.6726,
+        "precision": 0.559,
+        "recall": 0.5579,
+        "f1_score": 0.5437,
+        "roc_auc": 0.9729,
+        "train_time_sec": 0.98
+    },
+    "60": {
+        "accuracy": 0.6685,
+        "precision": 0.5414,
+        "recall": 0.5513,
+        "f1_score": 0.5414,
+        "roc_auc": 0.9687,
+        "train_time_sec": 1.35
+    },
+    "70": {
+        "accuracy": 0.6863,
+        "precision": 0.5545,
+        "recall": 0.5561,
+        "f1_score": 0.5403,
+        "roc_auc": 0.9778,
+        "train_time_sec": 1.51
+    },
+    "80": {
+        "accuracy": 0.6699,
+        "precision": 0.5555,
+        "recall": 0.5562,
+        "f1_score": 0.5502,
+        "roc_auc": 0.9719,
+        "train_time_sec": 2.09
+    },
+    "90": {
+        "accuracy": 0.6863,
+        "precision": 0.5688,
+        "recall": 0.569,
+        "f1_score": 0.5563,
+        "roc_auc": 0.9771,
+        "train_time_sec": 2.32
+    },
+    "100": {
+        "accuracy": 0.689,
+        "precision": 0.5642,
+        "recall": 0.5711,
+        "f1_score": 0.5568,
+        "roc_auc": 0.9785,
+        "train_time_sec": 2.62
+    }
+}

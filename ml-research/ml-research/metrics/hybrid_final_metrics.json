@@ -1,0 +1,7 @@
+{
+    "accuracy": 0.7589,
+    "precision": 0.7192,
+    "recall": 0.6553,
+    "f1_score": 0.6608,
+    "inference_time_sec": 358.02
+}

@@ -1,0 +1,58 @@
+{
+    "40": {
+        "accuracy": 0.9031,
+        "precision": 0.893,
+        "recall": 0.8624,
+        "f1_score": 0.8669,
+        "roc_auc": 0.9428,
+        "inference_time_sec": 10.83
+    },
+    "50": {
+        "accuracy": 0.9028,
+        "precision": 0.8936,
+        "recall": 0.868,
+        "f1_score": 0.8711,
+        "roc_auc": 0.9457,
+        "inference_time_sec": 13.36
+    },
+    "60": {
+        "accuracy": 0.9088,
+        "precision": 0.8951,
+        "recall": 0.8722,
+        "f1_score": 0.8745,
+        "roc_auc": 0.9479,
+        "inference_time_sec": 16.17
+    },
+    "70": {
+        "accuracy": 0.91,
+        "precision": 0.8688,
+        "recall": 0.8491,
+        "f1_score": 0.8511,
+        "roc_auc": 0.9489,
+        "inference_time_sec": 18.4
+    },
+    "80": {
+        "accuracy": 0.9101,
+        "precision": 0.8686,
+        "recall": 0.8491,
+        "f1_score": 0.8509,
+        "roc_auc": 0.9489,
+        "inference_time_sec": 21.67
+    },
+    "90": {
+        "accuracy": 0.9086,
+        "precision": 0.8677,
+        "recall": 0.8501,
+        "f1_score": 0.8513,
+        "roc_auc": 0.9494,
+        "inference_time_sec": 24.02
+    },
+    "100": {
+        "accuracy": 0.9116,
+        "precision": 0.8701,
+        "recall": 0.8522,
+        "f1_score": 0.8541,
+        "roc_auc": 0.9506,
+        "inference_time_sec": 27.13
+    }
+}

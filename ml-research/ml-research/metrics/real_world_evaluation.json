@@ -1,0 +1,14 @@
+{
+    "total_clauses": 75,
+    "bert_svm_disagreements": 32,
+    "disagreement_rate_percent": 42.67,
+    "average_bert_confidence": 0.5451,
+    "average_svm_confidence": 0.4599,
+    "average_hybrid_confidence": 0.5428,
+    "routing_distribution_percent": {
+        "BERT (High Confidence)": 24.0,
+        "BERT (Strong Margin)": 29.33,
+        "SVM (Low BERT Confidence)": 42.67,
+        "Weighted Fusion": 4.0
+    }
+}
